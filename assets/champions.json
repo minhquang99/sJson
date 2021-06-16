@@ -1,0 +1,36 @@
+{
+  "champions" :
+  [
+    {
+      "id": "aatrox",
+      "name": "Aatrox",
+      "bundle": "blademaster",
+      "origins": ["demon"],
+      "cost": 2,
+      "avatar": "assets/images/champs/aatrox.png",
+      "health": [650, 1170, 2340],
+      "dps": 42
+    },
+    {
+      "id": "ashe",
+      "name": "Ashe",
+      "bundle": "sorcerer",
+      "origins": ["wild"],
+      "cost": 2,
+      "avatar": "assets/images/champs/ashe.png",
+      "health": [450, 810, 1620],
+      "dps": 28
+    },
+    {
+      "id": "aphelios",
+      "name": "Aphelios",
+      "bundle": "assassin",
+      "origins": ["ninja"],
+      "cost": 4,
+      "avatar": "assets/images/champs/aphelios.png",
+      "health": [700, 1260, 2520],
+      "dps": 53
+    }
+  ]
+  
+}
