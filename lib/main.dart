@@ -1,8 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:searchjson/homepage.dart';
+import 'package:flutter/services.dart';
+import 'package:searchjson/test.dart';
+import 'package:searchjson/widget/homepage.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(
+    MyApp(),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -15,6 +19,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: HomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

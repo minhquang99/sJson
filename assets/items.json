@@ -1,0 +1,549 @@
+{
+    "items" :
+[
+    {
+        "id": "giapgai2",
+        "name": "Áo choàng gai lổm chổm",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446968-9a7c1080-d603-11eb-9428-8075b4891325.png"
+
+    },
+    {
+        "id": "giaplua",
+        "name": "Áo choàng lửa",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446975-9b14a700-d603-11eb-9240-6da4bbda2dbc.png"
+
+    },
+    {
+        "id": "giaplua2",
+        "name": "Áo choàng lửa",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446978-9bad3d80-d603-11eb-8a3b-1951cf8a391c.png"
+
+    },
+    {
+        "id": "giapmau",
+        "name": "Giáp máu",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446981-9bad3d80-d603-11eb-884d-c0029a7476b2.png"
+
+    },
+    {
+        "id": "giapmau2",
+        "name": "Giáp máu 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446983-9c45d400-d603-11eb-943b-a379dc425293.png"
+
+    },
+    {
+        "id": "giapthiennhien2",
+        "name": "Giáp thiên nhiên 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446985-9cde6a80-d603-11eb-81f8-a479be4fcdfb.png"
+
+    },
+    {
+        "id": "giapthiennhien",
+        "name": "Giáp thiên nhiên",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446987-9cde6a80-d603-11eb-9d65-caec4a4ced6f.png"
+
+    },
+    {
+        "id": "giapthienthan",
+        "name": "Giáp thiên thần",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446989-9d770100-d603-11eb-825c-683b14de5043.png"
+
+    },
+    {
+        "id": "giapthienthan2",
+        "name": "Giáp thiên thần 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446991-9d770100-d603-11eb-9c0a-fb1b772aa7ee.png"
+
+    },
+    {
+        "id": "haccuongdao",
+        "name": "Hắc cuồng đao Guinsoo",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446994-9e0f9780-d603-11eb-8eb3-2fdbfeb50601.png"
+
+    },
+    {
+        "id": "huyetkiem",
+        "name": "Huyết kiếm",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446996-9ea82e00-d603-11eb-9b52-48b7a75443f4.png"
+
+    },
+    {
+        "id": "hachuyetkiem",
+        "name": "Hắc huyết kiếm",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123446999-9ea82e00-d603-11eb-80d7-f3932804272b.png"
+
+    },
+    {
+        "id": "kiemsung",
+        "name": "Kiếm súng Hextech",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447001-9f40c480-d603-11eb-9fd2-336da05f7a92.png"
+
+    },
+    {
+        "id": "kiemsung2",
+        "name": "Kiếm súng 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447004-9f40c480-d603-11eb-8501-5e67594d71c6.png"
+
+    },
+    {
+        "id": "luoihai",
+        "name": "Lưỡi hái tử thần",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447007-9fd95b00-d603-11eb-9f80-f81c0c927c8e.png"
+
+    },
+    {
+        "id": "mongvuot",
+        "name": "Móng vuốt Sterak",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447009-a071f180-d603-11eb-8165-2050438502a9.png"
+
+    },
+    {
+        "id": "mongvuot2",
+        "name": "Móng vuốt Sterak 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447012-a071f180-d603-11eb-8ec8-4dc03ff7f344.png"
+
+    },
+    {
+        "id": "muphuthuy",
+        "name": "Mũ phù thủy",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447013-a10a8800-d603-11eb-8374-661060905cdd.png"
+
+    },
+    {
+        "id": "muphuthuy2",
+        "name": "Mũ phù thủy 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447014-a10a8800-d603-11eb-8d59-eafd65b2e1ca.png"
+
+    },
+    {
+        "id": "noset",
+        "name": "Nỏ sét",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447015-a1a31e80-d603-11eb-82b2-62c37ebdf708.png"
+
+    },
+    {
+        "id": "noset2",
+        "name": "Nỏ sét 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447019-a23bb500-d603-11eb-8d6d-fde130249380.png"
+
+    },
+    {
+        "id": "phongkiem",
+        "name": "Phong kiếm",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447022-a23bb500-d603-11eb-9e01-f52a24073358.png"
+
+    },
+    {
+        "id": "phongkiem2",
+        "name": "Phong kiếm 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447023-a2d44b80-d603-11eb-93e8-aba5ede8ed09.png"
+
+    },
+    {
+        "id": "quyennang",
+        "name": "Quyền năng",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447024-a36ce200-d603-11eb-952d-78a6ad1df260.png"
+
+    },
+    {
+        "id": "quyennang2",
+        "name": "Quyền năng 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447026-a36ce200-d603-11eb-849b-a9fea6cc0f10.png"
+
+    },
+    {
+        "id": "quyentruong",
+        "name": "Quyền trượng thiên sứ",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447027-a4057880-d603-11eb-9f50-867fa5b11e22.png"
+
+    },
+    {
+        "id": "quyentruong2",
+        "name": "Quyền trượng đại thiên sứ",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447028-a4057880-d603-11eb-91cc-e2b9e89f53b9.png"
+
+    },
+    {
+        "id": "quythu",
+        "name": "Quỷ thư Morenlo",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447029-a49e0f00-d603-11eb-8f28-15042b09d182.png"
+
+    },
+    {
+        "id": "quythu2",
+        "name": "Quỷ thư 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447030-a536a580-d603-11eb-9032-59006b478f0b.png"
+
+    },
+    {
+        "id": "soojin",
+        "name": "Thương Soojin",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447032-a536a580-d603-11eb-8d9a-c180430688a4.png"
+
+    },
+    {
+        "id": "soojin2",
+        "name": "Hắc thương Soojin",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447033-a5cf3c00-d603-11eb-992e-dc10b2ab5670.png"
+
+    },
+    {
+        "id": "solari",
+        "name": "Dây chuyên Iron Solari",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447034-a5cf3c00-d603-11eb-8f64-fd019ada6813.png"
+
+    },
+    {
+        "id": "solari2",
+        "name": "Dây chuyển Iron Solari 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447036-a667d280-d603-11eb-9355-6a39a2e63f58.png"
+
+    },
+    {
+        "id": "statik",
+        "name": "Dao điện Statik",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447040-a7006900-d603-11eb-85ed-bf01c4580286.png"
+
+    },
+    {
+        "id": "statik2",
+        "name": "Dao điện Statik2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447042-a7006900-d603-11eb-9247-7359844cfb80.png"
+
+    },
+    {
+        "id": "thutuong",
+        "name": "Thú tượng thập giáp",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447044-a798ff80-d603-11eb-9099-5f98b52c6381.png"
+
+    },
+    {
+        "id": "thutuong2",
+        "name": "Thú tượng thạch giáp 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447045-a8319600-d603-11eb-9ecc-ddf6e76d6220.png"
+
+    },
+    {
+        "id": "timbang",
+        "name": "Tim băng",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447046-a8319600-d603-11eb-8c8c-592ce143c36f.png"
+
+    },
+    {
+        "id": "timbang2",
+        "name": "Tim băng 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447047-a8ca2c80-d603-11eb-832d-b373cdad6153.png"
+
+    },
+    {
+        "id": "tinhlang",
+        "name": "Áo choàng tĩnh lặng",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447049-a8ca2c80-d603-11eb-83b1-001b4b92670e.png"
+
+    },
+    {
+        "id": "tinhlang2",
+        "name": "Áo choàng tĩnh lặng 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447051-a962c300-d603-11eb-992d-544172b4a01a.png"
+
+    },
+    {
+        "id": "vocuc",
+        "name": "Vô cực kiếm",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447054-a9fb5980-d603-11eb-91c7-42ef6f2ef5ac.png"
+
+    },
+    {
+        "id": "vocuc2",
+        "name": "Hắc cực kiếm",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447056-a9fb5980-d603-11eb-829c-d40e406ac078.png"
+
+    },
+    {
+        "id": "vuotrong2",
+        "name": "Vuốt rồng 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447057-aa93f000-d603-11eb-89fd-888498868a64.png"
+
+    },
+    {
+        "id": "zeke",
+        "name": "Tụ bão Zeke",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447059-aa93f000-d603-11eb-9f47-c5c6180afc90.png"
+
+    },
+    {
+        "id": "zeke2",
+        "name": "Tụ bão Zeke",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447060-ab2c8680-d603-11eb-94db-344854491f80.png"
+
+    },
+    {
+        "id": "zerot",
+        "name": "Thông đạo Zerot",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447062-abc51d00-d603-11eb-981d-d56899255f83.png"
+
+    },
+    {
+        "id": "zerot2",
+        "name": "Thông đạo Zerot 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447064-abc51d00-d603-11eb-9161-76713a0bf45a.png"
+
+    },
+    {
+        "id": "aochoang",
+        "name": "Áo choàng",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447069-ac5db380-d603-11eb-810d-667a52a2592b.png"
+
+    },
+    {
+        "id": "aochoang2",
+        "name": "Áo choàng 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447071-ac5db380-d603-11eb-9aef-a03316cd1026.png"
+
+    },
+    {
+        "id": "bantay",
+        "name": "Bàn tay đạo tặc",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447072-acf64a00-d603-11eb-8e8c-8c7298b42243.png"
+
+    },
+    {
+        "id": "bantay2",
+        "name": "Bàn tay đạo tặc 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447076-ad8ee080-d603-11eb-8f0f-3a97b80eb396.png"
+
+    },
+    {
+        "id": "bantaycongly",
+        "name": "Bàn tay công lý",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447079-ad8ee080-d603-11eb-88b1-1e1a4d5ec65d.png"
+
+    },
+    {
+        "id": "bantaycongly2",
+        "name": "Bàn tay công lý 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447081-ae277700-d603-11eb-8d60-c9d84f458468.png"
+
+    },
+    {
+        "id": "buaxanh",
+        "name": "Bùa xanh",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447085-aec00d80-d603-11eb-8b34-60b636cc010a.png"
+
+    },
+    {
+        "id": "buaxanhhacam",
+        "name": "Bùa xanh hắc ám",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447089-aec00d80-d603-11eb-9ec8-df3617505843.png"
+
+    },
+    {
+        "id": "chen",
+        "name": "Chén sức mạnh",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447090-af58a400-d603-11eb-95d1-f9ee32d1d1e3.png"
+
+    },
+    {
+        "id": "chen2",
+        "name": "Chén sức mạnh 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447094-af58a400-d603-11eb-9d49-c11966465a9d.png"
+
+    },
+    {
+        "id": "cung xanh",
+        "name": "Cung xanh",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447097-aff13a80-d603-11eb-838c-98314d78b5cf.png"
+
+    },
+    {
+        "id": "cung xanh 2",
+        "name": "Cung xanh 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447099-b089d100-d603-11eb-97c8-3b7ebf1550fc.png"
+
+    },
+    {
+        "id": "cuongcung",
+        "name": "Cuồng cung Runan",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447102-b089d100-d603-11eb-8da6-05b3ab244023.png"
+
+    },
+    {
+        "id": "cuongcung2",
+        "name": "Cuồng cung Runan 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447108-b1226780-d603-11eb-8243-0c7cd08926a8.png"
+
+    },
+    {
+        "id": "cuongdao",
+        "name": "Cuồng đao Guinsoo",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447110-b1226780-d603-11eb-85b6-be19c34bc9a6.png"
+
+    },
+    {
+        "id": "daibac",
+        "name": "Đại bác liên thanh",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447113-b1bafe00-d603-11eb-887b-b8ac52c4d1f2.png"
+
+    },
+    {
+        "id": "daibac2",
+        "name": "Đại bác liên thanh 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447115-b2539480-d603-11eb-867d-eba269ed1b3d.png"
+
+    },
+    {
+        "id": "daychuyen",
+        "name": "Dây chuyền chữ thập",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447117-b2539480-d603-11eb-9569-020792dd7585.png"
+
+    },
+    {
+        "id": "daychuyen2",
+        "name": "Dây chuyền chữ thập 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447119-b2ec2b00-d603-11eb-9949-69ab5f97f715.png"
+
+    },
+    {
+        "id": "dietkhonglo",
+        "name": "Diệt khổng lồ",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447121-b41d5800-d603-11eb-9063-e29c5b98bbd7.png"
+
+    },
+    {
+        "id": "dietkhonglo2",
+        "name": "Diệt khổng lồ 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447123-b41d5800-d603-11eb-89c9-b746f5da3ce0.png"
+
+    },
+    {
+        "id": "gangbaothach",
+        "name": "Găng bảo thạch",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447125-b4b5ee80-d603-11eb-8c05-60c94b64f9d2.png"
+
+    },
+    {
+        "id": "gangbaothach2",
+        "name": "Găng bảo thạch 2",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447129-b54e8500-d603-11eb-9c4b-abe631dbb8a8.png"
+
+    },
+    {
+        "id": "giapgai",
+        "name": "Giáp gai",
+        "des": "",
+        "img": "https://user-images.githubusercontent.com/45615713/123447133-b54e8500-d603-11eb-8387-b07c85bb6e4b.png"
+
+    },
+    {
+        "id": "",
+        "name": "",
+        "des": "",
+        "img": ""
+
+    },
+    {
+        "id": "",
+        "name": "",
+        "des": "",
+        "img": ""
+
+    },
+    {
+        "id": "",
+        "name": "",
+        "des": "",
+        "img": ""
+
+    },
+    {
+        "id": "",
+        "name": "",
+        "des": "",
+        "img": ""
+
+    },
+
+    {
+        "id": "",
+        "name": "",
+        "des": "",
+        "img": ""
+
+    }
+
+
+
+
+]
+}
