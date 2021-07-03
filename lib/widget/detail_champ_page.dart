@@ -62,7 +62,7 @@ class DetailChampPage extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(top: 10),
             child: Container(
-                height: 230,
+                height: 250,
                 child: Column(
                   children: [
                     Container(
@@ -101,7 +101,7 @@ class DetailChampPage extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      height: 50,
+                      height: 70,
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.start,
                         children: [
